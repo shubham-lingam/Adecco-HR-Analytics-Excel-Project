@@ -1,78 +1,64 @@
-# 👥 Adecco HR Analytics | Employee Attrition Analysis
+# ADECCO HR ANALYTICS | EMPLOYEE ATTRITION ANALYSIS
 
-<p align="center">
-
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blueviolet?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analytics-HR%20Analytics-orange?style=for-the-badge)
-
-</p>
+**Microsoft Excel • HR Analytics • Employee Attrition • Data Visualization**
 
 ---
 
-# 📌 Project Overview
+# PROJECT OVERVIEW
 
 Employee attrition is one of the biggest challenges faced by organizations. High employee turnover increases recruitment costs, affects productivity, and impacts overall business performance.
 
-This project analyzes employee attrition using **Microsoft Excel** by transforming raw HR data into meaningful business insights through **Pivot Tables, Pivot Charts, Interactive Slicers, KPI Cards, and Dashboard Visualizations**.
+This project analyzes employee attrition using **Microsoft Excel** by transforming raw HR data into meaningful business insights through:
 
-The final dashboard enables HR professionals and business leaders to quickly identify workforce trends and make informed decisions to improve employee retention.
+- Pivot Tables
+- Pivot Charts
+- Interactive Slicers
+- KPI Cards
+- Dashboard Visualizations
+
+The final dashboard enables HR professionals and business leaders to identify workforce trends and make informed decisions to improve employee retention.
 
 ---
 
-# 🎯 Business Objective
+# BUSINESS OBJECTIVE
 
 The primary objectives of this project are:
 
 - Analyze employee attrition trends
 - Identify departments with higher employee turnover
-- Study the impact of overtime, business travel, age, gender and job roles
+- Study the impact of overtime, business travel, age, gender, and job roles
 - Build an interactive HR dashboard
 - Generate business insights for better workforce planning
 
 ---
 
-# 📊 Dashboard Preview
-
-<p align="center">
-
-<img src="Images/HR_Dashboard.png" width="100%">
-
-</p>
-
----
-
-# 📈 Dashboard KPIs
+# DASHBOARD KPIs
 
 | KPI | Description |
 |------|-------------|
-| 👥 Total Employees | Total workforce |
-| 📉 Attrition Rate | Percentage of employees who left |
-| 🚪 Employees Left | Total attrition count |
-| ✅ Active Employees | Current employees |
-| 💰 Average Monthly Income | Average employee salary |
-| ⭐ Average Job Satisfaction | Overall satisfaction score |
+| Total Employees | Total workforce |
+| Attrition Rate | Percentage of employees who left |
+| Employees Left | Total attrition count |
+| Active Employees | Current employees |
+| Average Monthly Income | Average employee salary |
+| Average Job Satisfaction | Overall satisfaction score |
 
 ---
 
-# 📊 Dashboard Features
+# DASHBOARD FEATURES
 
-✔ Interactive KPI Cards
+The dashboard includes:
 
-✔ Pivot Tables
-
-✔ Pivot Charts
-
-✔ Dynamic Slicers
-
-✔ Business Insights
-
-✔ Executive Summary
+- Interactive KPI Cards
+- Pivot Tables
+- Pivot Charts
+- Dynamic Slicers
+- Business Insights
+- Executive Summary
 
 ---
 
-# 🎛 Dashboard Filters
+# DASHBOARD FILTERS
 
 The dashboard can be filtered using:
 
@@ -84,7 +70,9 @@ The dashboard can be filtered using:
 
 ---
 
-# 📉 Visualizations Included
+# VISUALIZATIONS INCLUDED
+
+The dashboard includes the following analyses:
 
 - Attrition by Department
 - Attrition by Gender
@@ -95,7 +83,7 @@ The dashboard can be filtered using:
 
 ---
 
-# 📂 Dataset Information
+# DATASET INFORMATION
 
 | Attribute | Details |
 |------------|---------|
@@ -107,7 +95,7 @@ The dashboard can be filtered using:
 
 ---
 
-# 🛠 Tools Used
+# TOOLS USED
 
 - Microsoft Excel
 - Pivot Tables
@@ -119,7 +107,7 @@ The dashboard can be filtered using:
 
 ---
 
-# 🔄 Project Workflow
+# PROJECT WORKFLOW
 
 ```text
 Raw Dataset
@@ -138,56 +126,58 @@ Interactive Dashboard
       │
       ▼
 Business Insights
+
 ```
+---
+
+# BUSINESS QUESTIONS ANSWERED
+
+## BASIC ANALYSIS
+
+## This project answers questions such as:
+
+* What is the overall employee attrition rate?
+* Which department has the highest attrition?
+* How does attrition vary by gender?
+* Which age group experiences the highest attrition?
+* Which job role has the highest employee turnover?
+* Does overtime affect employee attrition?
+* How does business travel influence attrition?
+* What is the relationship between stock option level and attrition?
+* What is the average monthly income by attrition status?
+* How does job satisfaction differ between employees who stayed and left?
+
+---
+## MEDIUM ANALYSIS
+
+## The analysis also explores:
+
+* Department-wise attrition trends
+* Overtime impact on employee turnover
+* Monthly income comparison
+* Job role attrition analysis
+* Stock option effectiveness
+* Work-life balance comparison
+* Employee tenure analysis
+* Business travel impact
+* Promotion trends
+* HR performance insights
 
 ---
 
-# ❓ Business Questions Answered
+# KEY INSIGHTS
 
-### Basic Analysis
+## The analysis identified several important workforce trends:
 
-- What is the overall employee attrition rate?
-- Which department has the highest attrition?
-- How does attrition vary by gender?
-- Which age group experiences the highest attrition?
-- Which job role has the highest employee turnover?
-- Does overtime affect employee attrition?
-- How does business travel influence attrition?
-- What is the relationship between stock option level and attrition?
-- What is the average monthly income by attrition status?
-- How does job satisfaction differ between employees who stayed and left?
+* Overall employee attrition rate is 16.12%.
+* Employees working overtime are significantly more likely to leave.
+* Research & Development and Sales contribute the largest number of attrition cases.
+* Certain job roles experience noticeably higher turnover.
+* Employees without stock options show higher attrition.
+* Business travel appears to influence employee retention.
 
----
-
-### Medium Analysis
-
-- Department-wise attrition trends
-- Overtime impact on employee turnover
-- Monthly income comparison
-- Job role attrition analysis
-- Stock option effectiveness
-- Work-life balance comparison
-- Employee tenure analysis
-- Business travel impact
-- Promotion trends
-- HR performance insights
-
----
-
-# 💡 Key Insights
-
-- Overall employee attrition rate is **16.12%**.
-- Employees working overtime are significantly more likely to leave.
-- Research & Development and Sales contribute the largest number of attrition cases.
-- Certain job roles experience noticeably higher turnover.
-- Employees without stock options show higher attrition.
-- Business travel appears to influence employee retention.
-
----
-
-# 📁 Repository Structure
-
-```text
+``` text
+REPOSITORY STRUCTURE
 Adecco-HR-Analytics-Excel-Project
 │
 ├── Dashboard
@@ -197,52 +187,52 @@ Adecco-HR-Analytics-Excel-Project
 │   ├── Raw_Dataset.xlsx
 │   └── Cleaned_Dataset.xlsx
 │
-├── Images
-│   └── HR_Dashboard.png
-│
 └── README.md
 ```
+---
+# SKILLS DEMONSTRATED
+
+## This project demonstrates the following skills:
+
+* Data Cleaning
+* Data Preparation
+* Excel Reporting
+* HR Analytics
+* Data Visualization
+* Interactive Dashboards
+* Pivot Tables
+* Pivot Charts
+* Business Intelligence
+* Analytical Thinking
 
 ---
+# LEARNING OUTCOMES
 
-# 🚀 Skills Demonstrated
+## Through this project, I strengthened my skills in:
 
-- Data Cleaning
-- Data Preparation
-- Excel Reporting
-- HR Analytics
-- Data Visualization
-- Interactive Dashboards
-- Pivot Tables
-- Pivot Charts
-- Business Intelligence
-- Analytical Thinking
-
+* Microsoft Excel
+* Dashboard Development
+* Data Analysis
+* Business Problem Solving
+* HR Analytics
+* Interactive Reporting
 ---
+# ABOUT ME
 
-# 📚 Learning Outcomes
+## L Shubham
 
-Through this project, I strengthened my skills in:
+## Email
 
-- Microsoft Excel
-- Dashboard Development
-- Data Analysis
-- Business Problem Solving
-- HR Analytics
-- Interactive Reporting
+shubham.lingamm@gmail.com
 
----
+## LinkedIn
 
-# 👨‍💻 About Me
+https://www.linkedin.com/in/shubham-lingam
 
-**L Shubham**
+## GitHub
 
-📧 Email: **shubham.lingamm@gmail.com**
+https://github.com/shubham-lingam
 
-🔗 LinkedIn: **https://www.linkedin.com/in/shubham-lingam**
+## SUPPORT
 
-💻 GitHub: **https://github.com/shubham-lingam**
-
----
-
-## ⭐ If you found this project helpful, please consider giving it a Star!
+If you found this project helpful or interesting, please consider giving the repository a star.
